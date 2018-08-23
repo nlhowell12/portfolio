@@ -34,16 +34,15 @@ function Biography(props) {
         <Typography component="div" style={{display: 'flex', justifyContent:'space-around'}}>
         <ul>
           <li>React</li>
-          <li>Mongo</li>
-          <li>SQL</li>
           <li>Javascript</li>
+          <li>Python</li>
+          <li>Mongo</li>
         </ul>
         <ul>
         <li style={{color: 'red'}}><i style={{ color: 'green', fontSize: "20pt" }}>U</i>X<strong style={{color: 'purple', textDecoration: 'underline'}}>/U</strong>I</li>
           <li>Six Sigma/Lean</li>
           <li>Agile Methodology</li>
-          <li>Coaching</li>
-          
+          <li>Coaching</li> 
         </ul>
         </Typography>
         <Typography variant="headline" component="h3">

@@ -35,7 +35,7 @@ function ProfileCard(props) {
             Nick Howell
           </Typography>
           <Typography component="p">
-            Web Developer/Student Coach studying and working at Kenzie Academy
+            Junior Software Developer/Coach - Kenzie Academy
           </Typography>
           <ul>
             <li>
